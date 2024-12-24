@@ -1,0 +1,12 @@
+# ===============================================================
+# WARNING
+# This file is not functional yet. Will be implemented later
+# ===============================================================
+repository:
+  name: dariolourenco/.dotfiles
+  origin: git@github.com:dariolourenco/.dotfiles.git
+  raw: https://raw.githubusercontent.com/dariolourenco/.dotfiles/main/
+
+download:
+  tarball: https://github.com/dariolourenco/.dotfiles/tarball/main
+  zip: https://github.com/dariolourenco/.dotfiles/archive/main.zip
